@@ -1,0 +1,11 @@
+h1 {
+  color: var(--primaryColor);
+  text-align: center;
+  text-transform: capitalize;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-top: 3rem;
+}
